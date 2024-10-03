@@ -1,0 +1,9 @@
+{
+  "name": "pythos-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/pythos-e2e/src",
+  "implicitDependencies": ["pythos"],
+  "// targets": "to see all targets run: nx show project pythos-e2e --web",
+  "targets": {}
+}
